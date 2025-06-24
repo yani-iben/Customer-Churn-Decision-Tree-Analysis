@@ -5,8 +5,8 @@ This dataset simulates customer behavior for a fictional telecommunications comp
 
 The purpose of the project is to predict whether a customer will churn or not. THe main model used was a Decision Tree model. In addition, the project includes feature importance analysis based on information gain. 
 
-**The 5 most important features, in terms of information gain, are below:
-**
+**The 5 most important features, in terms of information gain, are below:**
+
 1.) Total Charges: the total amount the customer has been charged over their subscription period.
 
 2.) Age: the customer's age
