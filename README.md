@@ -8,7 +8,7 @@ The purpose of the project is to predict whether a customer will churn or not. T
 \
 **The 5 most important features, in terms of information gain, are below:**
 
-
+\
 1.) Total Charges: the total amount the customer has been charged over their subscription period.
 
 2.) Age: the customer's age
